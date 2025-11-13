@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&family=Press+Start+2P&display=swap');
+html{
+    background-color: rgb(231,221,255);
+    background-image: repeating-linear-gradient(transparent, transparent 50px, mediumpurple 50px, mediumpurple 53px, transparent 53px, transparent 63px, mediumpurple 63px, mediumpurple 66px, transparent 66px, transparent 116px, rgba(151,106,220,.3) 116px, rgba(151,106,220,.3) 166px, rgba(255,255,255,.3) 166px, rgba(255,255,255,.2) 169px, rgba(151,106,220,.3) 169px, rgba(151,106,220,.3) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(151,106,220,.3) 182px, rgba(151,106,220,.3) 232px, transparent 232px),  
+  repeating-linear-gradient(270deg, transparent, transparent 50px, mediumpurple 50px, mediumpurple 53px, transparent 53px, transparent 63px, mediumpurple 63px, mediumpurple 66px, transparent 66px, transparent 116px, rgba(235,141,222,.25) 116px, rgba(235,141,222,.25) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(235,141,222,.25) 169px, rgba(235,141,222,.25) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(235,141,222,.25) 182px, rgba(235,141,222,.25) 232px, transparent 232px);
+}
+body{
+    width: 1300px;
+    background-color: rgb(243, 242, 231);
+    font-family: "Pixelify Sans", "sans-serif"; 
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 25px;
+    border-left: 2px solid rgb(73,52,132);
+    border-right: 2px solid rgb(73,52,132);
+}
+div h1, .new h2{
+    font-family: "Press start 2p";
+    font-size: 30px
+}
+header{
+    background: linear-gradient(to right, #6258B1, #BAA1E5);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border: 2px solid rgb(73,52,132);
+    color: white;
+    font-size: 30px;
+    padding: 25px;
+}
+header a{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    background-color: mediumpurple;
+    border: 3px dashed rgb(73,52,132);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+header b {
+    font-family: "Press start 2p", sans serif;
+  text-shadow: 0 0 5px white,  0 0 10px white;
+    font-size: 45px;
+}
+footer{
+    background: linear-gradient(to right, #6258B1, #BAA1E5);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 2px solid rgb(73,52,132);
+    color: white;
+    font-size: 30px;
+    padding: 25px;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    background-color: mediumpurple;
+    border: 3px dashed rgb(73,52,132);
+    border-radius: 20px;
+    padding: 15px;
+  
+}
+footer i{
+    color: rgb(231,221,255);
+    font-family: "Press start 2p";
+    font-size: 25px;
+}
+footer h1{
+    font-family: "Press start 2p", sans serif;
+  font-size: 35px;
+  color: white;
+  text-shadow: 0 0 5px white,  0 0 10px white;
+}
+.noticias{
+    background-color: #C0BBE8;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    border: 3px solid rgb(73,52,132);
+    border-radius: 25px;
+    color: rgb(73,52,132);
+    overflow: auto;
+}
+hr{
+    border-bottom: 3px dotted rgb(73,52,132);
+}
+.new{
+    background-color: Rgba(98,88,177, 0.5);
+    width: 300px;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border: 2px dashed rgb(73,52,132);
+    border-radius: 20px;
+    font-size: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.info {
+    background-color: #C0BBE8;
+    width: 900px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 3px solid rgb(73,52,132);
+    border-radius: 25px;
+    color: rgb(73,52,132);
+    font-size: 20px;
+    word-break: break-word;
+    text-align: center;
+}
+.info img{
+    border: 3px dashed rgb(73,52,132);
+    border-radius: 25px;
+}
+.info i{
+    font-size: 20px;
+}
+details{
+    background-color: #C0BBE8;
+    width: 800px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 3px solid rgb(73,52,132);
+    border-radius: 25px;
+    color: rgb(73,52,132);
+    font-size: 25px;
+    word-break: break-word;
+    cursor: pointer;
+}
+details h1{
+    color: white;
+    -webkit-text-stroke: 1px rgb(73,52,132);
+    font-size: 30px;
+}
+
+.mais h1{
+    color: white;
+    -webkit-text-stroke: 1px rgb(73,52,132);
+    font-size: 30px;
+}
+.obra {
+    background-color: #C0BBE8;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 3px solid rgb(73,52,132);
+    border-radius: 25px;
+    color: rgb(73,52,132);
+    font-size: 25px;
+    word-break: break-word;
+}
+.obra img{
+    border: 3px dashed rgb(73,52,132);
+    border-radius: 25px;
+}
+#galeria {
+    width: 900px;
+}
+.info2{
+    background-color: #C0BBE8;
+    width: 800px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 3px solid rgb(73,52,132);
+    border-radius: 25px;
+    color: rgb(73,52,132);
+    font-size: 20px;
+    word-break: break-word;
+}
+.info2 img{
+    border: 3px dashed rgb(73,52,132);
+    border-radius: 25px;
+}
+a {
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 20px;
+}
+.indice {
+    background-color: #C0BBE8;
+    width: 380px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 3px solid rgb(73,52,132);
+    border-radius: 25px;
+    color: rgb(73,52,132);
+}
+.indice a {
+    font-size: 40px;
+    padding: 10px;
+    margin-top: 20px;
+}
+form {
+    background-color: #C0BBE8;
+    width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 3px solid rgb(73,52,132);
+    border-radius: 25px;
+    color: rgb(73,52,132);
+    font-size: 30px;
+}
+textarea, input {
+    font-family: "Pixelify sans";
+    font-size: 20px;
+    border-radius: 25px;
+    border: 2px dashed grey;
+    padding: 15px;
+}
+#Enviar, #Arquivo {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: mediumpurple;
+    border: 3px dashed rgb(73,52,132);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+h4{
+    color:red;
+}
+
+/*Viadagens*/
+summary::marker {
+    content: "✦";
+}
+a:hover, #Enviar:hover{
+    background-color: #C0BBE8;
+    border: 3px dashed white;
+    color: white;
+    text-shadow: 0 0 5px white,  0 0 10px white;
+    transition: 0.5s;
+    cursor: pointer;
+}
+details[open] summary ~ * {
+  animation: sweep .5s ease-in;
+}
+
+@keyframes sweep {
+  0%    {opacity: 0; margin-left: -10px}
+  100%  {opacity: 1; margin-left: 0px}
+}
