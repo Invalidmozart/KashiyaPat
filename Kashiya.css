@@ -84,7 +84,8 @@ footer h1{
     border: 3px solid rgb(73,52,132);
     border-radius: 25px;
     color: rgb(73,52,132);
-    overflow: hidden;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
 hr{
     border-bottom: 3px dotted rgb(73,52,132);
@@ -312,4 +313,7 @@ details[open] summary ~ * {
 @keyframes sweep {
   0%    {opacity: 0; margin-left: -10px}
   100%  {opacity: 1; margin-left: 0px}
+}
+.notícias::-webkit-scrollbar{
+     display: none;
 }
