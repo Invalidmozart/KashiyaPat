@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&family=Press+Start+2P&display=swap');
+
 html{
     background-color: rgb(231,221,255);
     background-image: repeating-linear-gradient(transparent, transparent 50px, mediumpurple 50px, mediumpurple 53px, transparent 53px, transparent 63px, mediumpurple 63px, mediumpurple 66px, transparent 66px, transparent 116px, rgba(151,106,220,.3) 116px, rgba(151,106,220,.3) 166px, rgba(255,255,255,.3) 166px, rgba(255,255,255,.2) 169px, rgba(151,106,220,.3) 169px, rgba(151,106,220,.3) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(151,106,220,.3) 182px, rgba(151,106,220,.3) 232px, transparent 232px),  
