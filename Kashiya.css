@@ -84,6 +84,7 @@ footer h1{
     border: 3px solid rgb(73,52,132);
     border-radius: 25px;
     color: rgb(73,52,132);
+    overflow:auto;
 }
 hr{
     border-bottom: 3px dotted rgb(73,52,132);
