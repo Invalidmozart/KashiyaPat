@@ -239,6 +239,24 @@ textarea, input {
 h4{
     color:red;
 }
+.Fala{
+     background-color: #C0BBE8;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 30px;
+    border: 3px dashed rgb(73,52,132);
+    border-radius: 100px;
+    color: rgb(73,52,132);
+    font-size: 50px;
+}
+.Fala i{
+    float:right;
+    font-family:"Press start 2p";
+    font-size:30px;
+    text-decoration:underline;
+}
 /*efeitos img*/
 #Shiro {
     position: relative
