@@ -257,6 +257,20 @@ h4{
     font-size:30px;
     text-decoration:underline;
 }
+.quarto{
+    background-color: #C0BBE8;
+    width: 900px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 3px solid rgb(73,52,132);
+    border-radius: 25px;
+    color: rgb(73,52,132);
+    font-size: 20px;
+    word-break: break-word;
+    text-align: center;
+}
 /*efeitos img*/
 #Shiro {
     position: relative
