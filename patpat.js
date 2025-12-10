@@ -5,6 +5,7 @@ button.addEventListener("click", (event) => {
 });
 
   function muda() {
+    
     const img = document.getElementById("ksy");
 
    if(img.src.match("KashiFumo.png")){
@@ -14,4 +15,5 @@ button.addEventListener("click", (event) => {
    }
     
   }
+
 
