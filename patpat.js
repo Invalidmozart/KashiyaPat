@@ -12,4 +12,6 @@ button.addEventListener("click", (event) => {
    } else {
     img.src = "KashiFumo.png"
    }
+    
   }
+
