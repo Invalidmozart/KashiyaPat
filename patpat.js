@@ -8,12 +8,13 @@ button.addEventListener("click", (event) => {
     
     const img = document.getElementById("ksy");
 
-   if(img.src.match("KashiFumo.png")){
-    img.src = "PapaiSaiu.png"
+   if(img.src.match("Pat1.png")){
+    img.src = "Pat2.png"
    } else {
-    img.src = "KashiFumo.png"
+    img.src = "Pat1.png"
    }
     
   }
+
 
 
