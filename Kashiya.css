@@ -316,3 +316,7 @@ details[open] summary ~ * {
 .noticias::-webkit-scrollbar{
      display: none;
 }
+#pat{
+        background-color: rgb(243, 242, 231);
+        border: 2px solid rgb(243, 242, 231);
+      }
