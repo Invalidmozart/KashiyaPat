@@ -333,7 +333,7 @@ details[open] summary ~ * {
     }
 #eegg {
       background: none;
-      font-size: 40px;
+      font-size: 60px;
       color: white;
       text-shadow:
       0 0 5px white,
@@ -341,4 +341,5 @@ details[open] summary ~ * {
       0 0 12px white,
       0 0 20px white
       ;
+      border:none;
     }
