@@ -320,3 +320,14 @@ details[open] summary ~ * {
         background-color: rgb(243, 242, 231);
         border: 2px solid rgb(243, 242, 231);
       }
+#max {
+      display: none;
+      color: rgb(255, 255, 255);
+      font-family: "Press start 2p";
+      text-shadow:  
+    0 0 7px rgb(0, 0, 255),
+    0 0 10px rgb(0, 0, 255),
+    0 0 21px rgb(0, 0, 255),
+    0 0 25px rgb(0, 0, 255)
+    ;
+    }
