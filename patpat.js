@@ -17,8 +17,17 @@ function contaCliques() {
                 img.src = "KsyPat.gif";
                 max.style.display = 'block';
             }
-            if(cliques == 200){
-            alert("Você é desempregado.");
+            if(cliques == 250){
+            alert("Você já descobriu o easter egg, pode relaxar, bro.");
+            }
+            if(cliques == 500){
+            alert("Para.");
+            }
+            if(cliques == 900){
+            alert("PARA.");
+            }
+            if(cliques == 1000){
+            alert("Você é desempregado demais, toma uma conquista.");
             }
 }
 
@@ -35,5 +44,3 @@ button.addEventListener('click', contaCliques);
    }
     
   }
-
-
