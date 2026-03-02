@@ -10,14 +10,14 @@ function contaCliques() {
             if(cliques == 90){
                 alert("Opa! Parece que você está próximo de descobrir algo...!")
             }
-            else if(cliques == 100) {
+            if(cliques == 100) {
                 alert("Easter egg desbloqueado!!")
 
                 const img = document.getElementById("ksy");
                 img.src = "KsyPat.gif";
                 max.style.display = 'block';
             }
-            else if(cliques == 200){
+            if(cliques == 200){
             alert("Você é desempregado.");
             }
 }
@@ -35,4 +35,5 @@ button.addEventListener('click', contaCliques);
    }
     
   }
+
 
