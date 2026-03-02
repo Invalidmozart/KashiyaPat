@@ -1,8 +1,8 @@
 # KashiyaPat
 
 Fazer: 
-Banco curiosidades
-Ligação do formulário com email
+Banco curiosidades,
+Ligação do formulário com email,
 mp3
 
 Fazendo:
