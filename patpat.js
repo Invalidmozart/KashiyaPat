@@ -17,6 +17,9 @@ function contaCliques() {
                 img.src = "KsyPat.gif";
                 max.style.display = 'block';
             }
+            else if(cliques == 200){
+            alert("Você é desempregado.");
+            }
 }
 
 button.addEventListener('click', contaCliques);
@@ -32,3 +35,4 @@ button.addEventListener('click', contaCliques);
    }
     
   }
+
