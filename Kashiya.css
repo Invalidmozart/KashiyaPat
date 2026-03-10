@@ -303,6 +303,7 @@ a:hover, #Enviar:hover{
     font-size: 35px;
     color: white;
     text-shadow: 0 0 5px white,  0 0 10px white;
+    margin: 5px;
     transition: 0.5s;
     cursor: pointer;
 }
