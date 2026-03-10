@@ -300,6 +300,7 @@ summary::marker {
 a:hover, #Enviar:hover{
     background-color: #C0BBE8;
     border: 3px dashed white;
+    font-size: 35px;
     color: white;
     text-shadow: 0 0 5px white,  0 0 10px white;
     transition: 0.5s;
