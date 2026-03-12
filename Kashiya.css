@@ -272,6 +272,9 @@ h4{
     word-break: break-word;
     text-align: center;
 }
+.quarto img{
+    float:left;
+}
 
 /*efeitos img*/
 #Shiro {
