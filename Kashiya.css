@@ -270,7 +270,7 @@ h4{
     color: rgb(73,52,132);
     font-size: 20px;
     word-break: break-word;
-    text-align: center;
+    text-align: left;
 }
 .quarto img{
     float:left;
