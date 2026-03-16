@@ -32,10 +32,6 @@ function contaCliques() {
                 img.src = "eminem.png";
                 max.style.display = 'block';
             }
-            If(cliques > 1000){
-                img.src = "eminem.png";
-                max.style.display = 'block';
-            }
 }
 
 button.addEventListener('click', contaCliques);
