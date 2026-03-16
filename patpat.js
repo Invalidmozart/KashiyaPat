@@ -26,7 +26,7 @@ function contaCliques() {
             if(cliques == 900){
             alert("PARA.");
             }
-            if(cliques == 1000){
+            if(cliques => 1000){
             alert("Você é desempregado demais, toma uma conquista.");
                          const img = document.getElementById("ksy");
                 img.src = "eminem.png";
