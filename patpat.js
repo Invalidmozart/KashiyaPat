@@ -28,6 +28,9 @@ function contaCliques() {
             }
             if(cliques == 1000){
             alert("Você é desempregado demais, toma uma conquista.");
+                         const img = document.getElementById("ksy");
+                img.src = "eminem.png";
+                max.style.display = 'block';
             }
 }
 
