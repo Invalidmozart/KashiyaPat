@@ -275,6 +275,52 @@ h4{
 .quarto img{
     float:left;
 }
+.tocador {
+    background: linear-gradient(to right, #6258B1, #BAA1E5);
+      font-family: "Press start 2p";
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 30px;
+    border: 3px solid rgb(73,52,132);
+    border-radius: 50px;
+    color: white;
+}
+
+#titulomp3 {
+    font-size: 20px;
+    text-shadow: 0 0 5px white,  0 0 10px white;
+}
+
+.tocador button{
+    font-family: "pixelify sans";
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: mediumpurple;
+    border: 3px dashed rgb(73,52,132);
+    border-radius: 15px;
+    padding: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin: 2px;
+}
+
+#barra{
+    height: 5px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    padding: 2px;
+}
+
+#tempo {
+    height: 4px;
+    width: 0;
+    background-color: #340c79;
+    border-radius: 4px;
+}
 
 /*efeitos img*/
 #Shiro {
