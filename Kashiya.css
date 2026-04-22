@@ -322,6 +322,10 @@ h4{
     border-radius: 4px;
 }
 
+.spon {
+    border-radius: 10px;
+}
+
 /*efeitos img*/
 #Shiro {
     position: relative
@@ -346,7 +350,7 @@ h4{
 summary::marker {
     content: "✦";
 }
-a:hover, #Enviar:hover{
+footer a:hover, header a:hover, details a:hover, .indice a:hover, #Enviar:hover{
     background-color: #C0BBE8;
     border: 3px dashed white;
     font-size: 35px;
@@ -410,3 +414,12 @@ details[open] summary ~ * {
 .caixa img{
     border:none;
 }
+
+.spon:hover {
+    width: 100px;
+    border: 3px solid mediumpurple;
+    color: white;
+    text-shadow: 0 0 5px white,  0 0 10px white;
+    transition: 0.5s;
+    cursor: pointer;
+               }
