@@ -3,7 +3,8 @@ const playlist = [
     { title: "Romance - Buck-Tick", file: "romance.mp3" },
     { title: "Dress - Buck-Tick", file: "dress.mp3" },
     { title: "Hyper Love - Buck-Tick", file: "HyperLove.mp3" },
-    { title: "Kurenai - X Japan", file: "Kurenai.mp3" }
+    { title: "Kurenai - X Japan", file: "Kurenai.mp3" },
+    { title: "Kūchū Buranko - Plastic Tree", file: "Kuchuu.mp3"}
 ];
 
 const estado = document.getElementById('play');
