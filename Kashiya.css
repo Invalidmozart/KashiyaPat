@@ -324,6 +324,7 @@ h4{
 
 .spon {
     border-radius: 10px;
+    width: 150px;
 }
 
 /*efeitos img*/
@@ -420,6 +421,6 @@ details[open] summary ~ * {
     border: 3px solid mediumpurple;
     color: white;
     text-shadow: 0 0 5px white,  0 0 10px white;
-    transition: 0.5s;
+    transition: 1.0s;
     cursor: pointer;
                }
