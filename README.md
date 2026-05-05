@@ -1,5 +1,5 @@
 # KashiyaPat
 
 Fazer: 
-desenho easter egg
+desenho easter egg,
 desenho curiosidades
