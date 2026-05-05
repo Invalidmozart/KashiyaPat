@@ -417,7 +417,7 @@ details[open] summary ~ * {
 }
 
 .spon:hover {
-    width: 100px;
+    width: 200px;
     border: 3px solid mediumpurple;
     color: white;
     text-shadow: 0 0 5px white,  0 0 10px white;
